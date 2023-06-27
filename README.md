@@ -8,7 +8,24 @@ Tailwindcss
 Ionic
 ```
 
-## Recommended Structured
+![](https://github.com/DianaCCM/task-manager/blob/master/src/assets/img/taskManager.gif)
+
+## Project creation
+
+```sh
+npm init vue@latest
+cd project-name
+npm install
+```
+
+## Project setup
+
+```sh
+npm install
+npm run dev
+```
+
+## Recommended Structured (example)
 
 ```sh
 src/
@@ -29,19 +46,4 @@ src/
         |- About.vue
     |- App.vue # Root component of the application
     |- main.js # Main entry point of the application
-```
-
-## Project creation
-
-```sh
-npm init vue@latest
-cd project-name
-npm install
-```
-
-## Project setup
-
-```sh
-npm install
-npm run dev
 ```
