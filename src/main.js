@@ -1,5 +1,3 @@
-//import store from "./store/store.js";
-//App.use(store);
 import { createApp } from "vue";
 import App from "./App.vue";
 import { IonicVue } from "@ionic/vue";
