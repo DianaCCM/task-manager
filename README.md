@@ -1,4 +1,12 @@
-# task-manager
+# Task Manager
+
+## Techs
+
+```sh
+VueJS 3 Composition API
+Tailwindcss 
+Ionic
+```
 
 ## Recommended Structured
 
